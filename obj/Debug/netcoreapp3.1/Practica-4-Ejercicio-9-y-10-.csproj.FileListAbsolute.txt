@@ -1,0 +1,13 @@
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\bin\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.exe
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\bin\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.deps.json
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\bin\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.runtimeconfig.json
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\bin\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.runtimeconfig.dev.json
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\bin\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.dll
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\bin\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.pdb
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\obj\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.csprojAssemblyReference.cache
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\obj\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.AssemblyInfoInputs.cache
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\obj\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.AssemblyInfo.cs
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\obj\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.csproj.CoreCompileInputs.cache
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\obj\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.dll
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\obj\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.pdb
+C:\Users\JoseM\OneDrive\Desktop\MACF\ITLA\Materias\Fundamentos de la Programación\Ejercicio 9 y 10\Practica-4-Ejercicio-9-y-10-\obj\Debug\netcoreapp3.1\Practica-4-Ejercicio-9-y-10-.genruntimeconfig.cache
